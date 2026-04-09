@@ -1,6 +1,23 @@
 
 ---
 
+---
+
+## 📎 Individual UX Exercise (Day 5)
+
+Chi tiết bài làm cá nhân của mình tại:
+
+🔗 https://github.com/NguyenDat142857/2A202600218-NguyenTienDat-Day05.
+
+### Nội dung chính
+- UX analysis theo framework 4 paths
+- Sketch cải thiện trải nghiệm (as-is → to-be)
+- Insight về AI uncertainty và trust
+
+👉 Bài tập tập trung vào thiết kế UX cho AI khi **không chắc chắn và có thể sai**
+
+---
+
 # AI Tutor — Trợ lý học tập thông minh (Q&A nội bộ)
 
 AI Tutor là trợ lý học tập giúp sinh viên/học sinh tra cứu và hiểu kiến thức từ tài liệu nội bộ (slides, notes, syllabus) thông qua hỏi đáp tự nhiên.
