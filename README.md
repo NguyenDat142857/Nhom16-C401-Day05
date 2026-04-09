@@ -5,7 +5,7 @@
 
 ## 📎 Individual UX Exercise (Day 5)
 
-Chi tiết bài làm cá nhân của mình tại: https://github.com/NguyenDat142857/2A202600218-NguyenTienDat-Day05..
+Chi tiết bài làm cá nhân của mình tại: (https://github.com/NguyenDat142857/2A202600218-NguyenTienDat-Day05.)
 
 ### Nội dung chính
 - UX analysis theo framework 4 paths
